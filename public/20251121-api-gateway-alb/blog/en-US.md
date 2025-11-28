@@ -2,9 +2,9 @@
 
 *Published on November 21, 2025*
 
-![Architecture diagram showing the simplification of API Gateway integration with ALB](https://raw.githubusercontent.com/americofreitasjr/americofreitasjr.github.io/main/public/20251121-api-gateway-alb/blog/img.png)
+![Architecture diagram showing the simplification of API Gateway integration with ALB](https://raw.githubusercontent.com/americofreitasjr/americofreitasjr.github.io/main/public/20251121-api-gateway-alb/blog/assets/img.png)
 
-[Leia em Português 🇧🇷](./pt.md)
+[Leia em Português 🇧🇷](./pt-BR.md)
 
 For years, one of the small "headaches" in AWS solution architecture was the need to expose internal services, balanced by a private Application Load Balancer (ALB), through API Gateway. The solution, while functional, always felt like a workaround: it was mandatory to place a Network Load Balancer (NLB) as an intermediary.
 

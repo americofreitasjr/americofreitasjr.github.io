@@ -2,7 +2,7 @@
 
 *Publicado em 21 de novembro de 2025*
 
-[Read in English 🇺🇸](./en.md)
+[Read in English 🇺🇸](./en-US.md)
 
 ![Diagrama de arquitetura mostrando a simplificação da integração do API Gateway com o ALB](https://raw.githubusercontent.com/americofreitasjr/americofreitasjr.github.io/main/public/20251121-api-gateway-alb/blog/img.png)
 
