@@ -63,4 +63,4 @@ It's a step towards simpler, more efficient, and cost-effective architectures—
 ---
 **Official Reference:** [AWS Compute Blog - Build scalable and resilient REST APIs using Amazon API Gateway private integration with Application Load Balancer](https://aws.amazon.com/blogs/compute/build-scalable-rest-apis-using-amazon-api-gateway-private-integration-with-application-load-balancer/)
 
-[Read in Portuguese 🇧🇷](./pt.md)
+[Read in Portuguese 🇧🇷](./pt-BR.md)

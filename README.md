@@ -5,8 +5,8 @@
 
 - **2025-11-21**
 	- **Blog:**
-		- [PT-BR: Fim da Escala Forçada: O Fim do NLB como Intermediário entre API Gateway e ALB](public/20251121-api-gateway-alb/blog/pt-BR.md)
-		- [EN-US: End of Forced Scale: The End of NLB as an Intermediary between API Gateway and ALB](public/20251121-api-gateway-alb/blog/en-US.md)
+		- [PT-BR: Fim da Escala Forçada: O Fim do NLB como Intermediário entre API Gateway e ALB](public/20251121-end-of-forced-scale-the-end-of-nlb-as-an-intermediary-between-api-gateway-and-alb/blog/pt-BR.md)
+		- [EN-US: End of Forced Scale: The End of NLB as an Intermediary between API Gateway and ALB](public/20251121-end-of-forced-scale-the-end-of-nlb-as-an-intermediary-between-api-gateway-and-alb/blog/en-US.md)
 	- **LinkedIn:**
 		- [PT-BR: Fim da Escala Forçada: O Fim do NLB como Intermediário entre API Gateway e ALB](public/20251121-api-gateway-alb/linkedin/pt-BR.md)
 
