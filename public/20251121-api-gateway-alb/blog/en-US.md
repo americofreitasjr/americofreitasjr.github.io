@@ -1,10 +1,14 @@
-# End of Forced Scale: The End of NLB as an Intermediary between API Gateway and ALB
 
-*Published on November 21, 2025*
-
-![Architecture diagram showing the simplification of API Gateway integration with ALB](https://raw.githubusercontent.com/americofreitasjr/americofreitasjr.github.io/main/public/20251121-api-gateway-alb/blog/assets/img.png)
+---
+title: "End of Forced Scale: The End of NLB as an Intermediary between API Gateway and ALB"
+datePublished: 2025-11-21
+slug: end-of-forced-scale-the-end-of-nlb-as-an-intermediary-between-api-gateway-and-alb
+tags: aws, api-gateway, alb, nlb, architecture, cloud
+---
 
 [Leia em Português 🇧🇷](./pt-BR.md)
+
+![Architecture diagram showing the simplification of API Gateway integration with ALB](./img/20251121-fim-da-escala-forcada-o-fim-do-nlb-como-intermediario-entre-api-gateway-e-alb.png)
 
 For years, one of the small "headaches" in AWS solution architecture was the need to expose internal services, balanced by a private Application Load Balancer (ALB), through API Gateway. The solution, while functional, always felt like a workaround: it was mandatory to place a Network Load Balancer (NLB) as an intermediary.
 

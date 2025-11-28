@@ -1,3 +1,6 @@
+
+![Diagrama de arquitetura mostrando a simplificação da integração do API Gateway com o ALB](./img/20251121-fim-da-escala-forcada-o-fim-do-nlb-como-intermediario-entre-api-gateway-e-alb.png)
+
 Quem nunca precisou expor um serviço interno via API Gateway e se deparou com o setup:
 
 `API Gateway -> VPC Link -> NLB -> ALB -> Serviço`
